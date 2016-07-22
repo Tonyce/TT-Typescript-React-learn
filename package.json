@@ -1,0 +1,19 @@
+{
+  "name": "typescript-react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "director": "^1.2.8",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "todomvc-app-css": "^2.0.6",
+    "tsify": "^1.0.1",
+    "typescript": "^1.8.10"
+  }
+}
